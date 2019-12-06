@@ -1,1 +1,26 @@
 staging -? index , cache
+
+a commit is a kind of zip file
+
+you have a working directory (folder khodet mishe) - add files to staging area (az inja git mifahme)- then commit it to local repository
+
+git add --all . 
+*using --all helps you even have a track of deleted files
+
+
+every commit has an ID
+
+
+
+(har commit ghablesh y add) akharesh ham mitooni log begiri k id haro bebini
+
+
+git reset= means moving the master to somewhere else
+-----gir reset --hard 116ba (yadet bashe vaghean working directory t taghir mikone)
+ta vaghti bedooni akharin id haro va garbage collection nakarde bashi mitooni hamintori bargardi aghab
+ama mamoolan age barmigardi aghab nemikhay dobare beri jolo
+
+
+
+
+
